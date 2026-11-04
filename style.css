@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eaf2f8;
+    text-align: center;
+    padding: 30px;
+}
+
+h1{
+    color: #1a5276;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 200px;
+}
+
+button{
+    background-color: #2874a6;
+    color: white;
+    padding: 10px 115px;
+    border: none;
+    cursor: pointer
+}
+  
+#resultado{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.ExelenteAprobado{
+    color: aquamarine;
+}
+
+.Reprobado{
+    color: red;
+}
